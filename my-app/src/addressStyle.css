@@ -1,0 +1,16 @@
+.card_align{
+    top: -13px;
+    
+}
+.card_background:hover{
+    background-color: rgba(0, 0, 0, 0.075);
+    cursor: pointer;
+}
+.card_body{
+    margin: -15px;
+}
+.card_background{
+    padding: 5px;
+    background-color: white;
+    text-align: start;
+}
